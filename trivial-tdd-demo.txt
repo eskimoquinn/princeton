@@ -1,0 +1,24 @@
+TDD Notes
+
+Download the Spring App - only necessary for later exercises
+
+Red Green Blue refactor cycle
+
+Contrived Example to show JUnit:
+	Trivial Parser
+
+Explain JUnit
+	http://users.csc.calpoly.edu/~djanzen/research/TDD08/cdesai/IntroducingJUnit/IntroducingJUnit.html
+
+Hamcrest https://code.google.com/archive/p/hamcrest/wikis/Tutorial.wiki
+	@Before, @Test
+	Arrange Act Assert
+
+Then show code coverage:
+IntelliJ, http://www.eclemma.org/
+Line coverage vs branch coverage: implicit branching
+
+But you say “I could have written this so much faster without the tests.” To which I say, that is true, but now you have a regression suite. You can make changes to the code without FEAR. Your QA and Management staff is happy because there are less bugs. And you can refactor and add features without the FEAR of unintended consequences. This makes us go faster. Also you have designed the code with the client in mind! My non TDD method threw and exception. This exception is unchecked, the client needs to know how to handle that situation. Not the case with the TDD version…your tests stand in for clients of your class and thus you have designed the method better, considering the client fully. And the run FAST and EVERY TIME YOU BUILD YOUR PROJECT.
+
+
+
