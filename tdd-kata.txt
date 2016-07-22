@@ -1,0 +1,8 @@
+# Remember Write only the code that you need to pass the test
+# Red-Green-Refactor cycle
+# Naming convention: MethodName_StateUnderTest_ExpectedBehavior:
+# Testing Thrown Exceptions
+
+Other Notes:
+Code Coverage Tools
+Branch coverage vs line coverage
