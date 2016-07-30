@@ -6,6 +6,7 @@
     <groupId>org.princetondemo</groupId>
     <artifactId>princetondemo</artifactId>
     <version>0.0.1-SNAPSHOT</version>
+    <packaging>pom</packaging>
 
     <name>princetondemo</name>
     <description>Demo project for Spring Boot</description>
