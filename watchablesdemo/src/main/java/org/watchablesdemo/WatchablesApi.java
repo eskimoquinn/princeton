@@ -26,6 +26,12 @@ public class WatchablesApi {
 
     DipSwitch dipSwitch;
 
+    @RequestMapping(value = "/pv", method = { RequestMethod.GET })
+    @ResponseBody
+    public Map<String, String> pvDemo(){
+        return new HashMap<>();
+    }
+
 
     @RequestMapping(value = "/dipswitch", method = { RequestMethod.GET })
     @ResponseBody
@@ -37,6 +43,10 @@ public class WatchablesApi {
 
     @PostConstruct
     public void initialization() {
+        initDipswitch();
+    }
+
+    private void initDipswitch() {
         dipSwitch = dsf.newDipSwitch("bear", true);
         dipSwitch.subscribe(new WatchableListener() {
             @Override
