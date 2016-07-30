@@ -11,11 +11,11 @@ import java.time.LocalDateTime;
 @Component
 public class WatchablesRetryHelperWorker {
 
-    private int retry=1;
 
-    @RetryHelper(name = "eme-service", numberOfRetries = 3, delay = 2000L, exponentialBackoff = true)
+
+    @RetryHelper(name = "myRetry", numberOfRetries = 3, delay = 2000L, exponentialBackoff = true)
     public void retryMethod(){
-        System.out.println("Retry attempt: " + retry + " at " + LocalDateTime.now());
+        System.out.println("Retry attempt at: " + LocalDateTime.now());
         myLongMethod();
     }
 
