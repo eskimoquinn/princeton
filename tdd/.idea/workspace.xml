@@ -1,7 +1,140 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d682b7f3-6079-41a7-a089-1de8da36bd49" name="Default" comment="" />
+    <list default="true" id="d682b7f3-6079-41a7-a089-1de8da36bd49" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../watchablesdemo/.idea/artifacts/watchablesdemo_war.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../watchablesdemo/.idea/artifacts/watchablesdemo_war_exploded.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../watchablesdemo/.idea/libraries/Maven__antlr_antlr_2_7_7.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../watchablesdemo/.idea/libraries/Maven__asm_asm_all_3_2.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../watchablesdemo/.idea/libraries/Maven__ch_qos_cal10n_cal10n_api_0_8_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../watchablesdemo/.idea/libraries/Maven__com_amazonaws_aws_java_sdk_1_10_27.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../watchablesdemo/.idea/libraries/Maven__com_amazonaws_aws_java_sdk_autoscaling_1_10_27.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../watchablesdemo/.idea/libraries/Maven__com_amazonaws_aws_java_sdk_cloudformation_1_10_27.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../watchablesdemo/.idea/libraries/Maven__com_amazonaws_aws_java_sdk_cloudfront_1_10_27.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../watchablesdemo/.idea/libraries/Maven__com_amazonaws_aws_java_sdk_cloudhsm_1_10_27.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../watchablesdemo/.idea/libraries/Maven__com_amazonaws_aws_java_sdk_cloudsearch_1_10_27.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../watchablesdemo/.idea/libraries/Maven__com_amazonaws_aws_java_sdk_cloudtrail_1_10_27.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../watchablesdemo/.idea/libraries/Maven__com_amazonaws_aws_java_sdk_cloudwatch_1_10_27.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../watchablesdemo/.idea/libraries/Maven__com_amazonaws_aws_java_sdk_cloudwatchmetrics_1_10_27.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../watchablesdemo/.idea/libraries/Maven__com_amazonaws_aws_java_sdk_codecommit_1_10_27.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../watchablesdemo/.idea/libraries/Maven__com_amazonaws_aws_java_sdk_codedeploy_1_10_27.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../watchablesdemo/.idea/libraries/Maven__com_amazonaws_aws_java_sdk_codepipeline_1_10_27.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../watchablesdemo/.idea/libraries/Maven__com_amazonaws_aws_java_sdk_cognitoidentity_1_10_27.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../watchablesdemo/.idea/libraries/Maven__com_amazonaws_aws_java_sdk_cognitosync_1_10_27.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../watchablesdemo/.idea/libraries/Maven__com_amazonaws_aws_java_sdk_config_1_10_27.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../watchablesdemo/.idea/libraries/Maven__com_amazonaws_aws_java_sdk_core_1_10_27.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../watchablesdemo/.idea/libraries/Maven__com_amazonaws_aws_java_sdk_datapipeline_1_10_27.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../watchablesdemo/.idea/libraries/Maven__com_amazonaws_aws_java_sdk_devicefarm_1_10_27.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../watchablesdemo/.idea/libraries/Maven__com_amazonaws_aws_java_sdk_directconnect_1_10_27.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../watchablesdemo/.idea/libraries/Maven__com_amazonaws_aws_java_sdk_directory_1_10_27.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../watchablesdemo/.idea/libraries/Maven__com_amazonaws_aws_java_sdk_dynamodb_1_10_27.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../watchablesdemo/.idea/libraries/Maven__com_amazonaws_aws_java_sdk_ec2_1_10_27.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../watchablesdemo/.idea/libraries/Maven__com_amazonaws_aws_java_sdk_ecs_1_10_27.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../watchablesdemo/.idea/libraries/Maven__com_amazonaws_aws_java_sdk_efs_1_10_27.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../watchablesdemo/.idea/libraries/Maven__com_amazonaws_aws_java_sdk_elasticache_1_10_27.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../watchablesdemo/.idea/libraries/Maven__com_amazonaws_aws_java_sdk_elasticbeanstalk_1_10_27.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../watchablesdemo/.idea/libraries/Maven__com_amazonaws_aws_java_sdk_elasticloadbalancing_1_10_27.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../watchablesdemo/.idea/libraries/Maven__com_amazonaws_aws_java_sdk_elasticsearch_1_10_27.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../watchablesdemo/.idea/libraries/Maven__com_amazonaws_aws_java_sdk_elastictranscoder_1_10_27.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../watchablesdemo/.idea/libraries/Maven__com_amazonaws_aws_java_sdk_emr_1_10_27.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../watchablesdemo/.idea/libraries/Maven__com_amazonaws_aws_java_sdk_glacier_1_10_27.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../watchablesdemo/.idea/libraries/Maven__com_amazonaws_aws_java_sdk_iam_1_10_27.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../watchablesdemo/.idea/libraries/Maven__com_amazonaws_aws_java_sdk_importexport_1_10_27.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../watchablesdemo/.idea/libraries/Maven__com_amazonaws_aws_java_sdk_inspector_1_10_27.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../watchablesdemo/.idea/libraries/Maven__com_amazonaws_aws_java_sdk_iot_1_10_27.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../watchablesdemo/.idea/libraries/Maven__com_amazonaws_aws_java_sdk_kinesis_1_10_27.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../watchablesdemo/.idea/libraries/Maven__com_amazonaws_aws_java_sdk_kms_1_10_27.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../watchablesdemo/.idea/libraries/Maven__com_amazonaws_aws_java_sdk_lambda_1_10_27.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../watchablesdemo/.idea/libraries/Maven__com_amazonaws_aws_java_sdk_logs_1_10_27.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../watchablesdemo/.idea/libraries/Maven__com_amazonaws_aws_java_sdk_machinelearning_1_10_27.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../watchablesdemo/.idea/libraries/Maven__com_amazonaws_aws_java_sdk_marketplacecommerceanalytics_1_10_27.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../watchablesdemo/.idea/libraries/Maven__com_amazonaws_aws_java_sdk_opsworks_1_10_27.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../watchablesdemo/.idea/libraries/Maven__com_amazonaws_aws_java_sdk_rds_1_10_27.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../watchablesdemo/.idea/libraries/Maven__com_amazonaws_aws_java_sdk_redshift_1_10_27.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../watchablesdemo/.idea/libraries/Maven__com_amazonaws_aws_java_sdk_route53_1_10_27.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../watchablesdemo/.idea/libraries/Maven__com_amazonaws_aws_java_sdk_s3_1_10_27.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../watchablesdemo/.idea/libraries/Maven__com_amazonaws_aws_java_sdk_ses_1_10_27.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../watchablesdemo/.idea/libraries/Maven__com_amazonaws_aws_java_sdk_simpledb_1_10_27.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../watchablesdemo/.idea/libraries/Maven__com_amazonaws_aws_java_sdk_simpleworkflow_1_10_27.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../watchablesdemo/.idea/libraries/Maven__com_amazonaws_aws_java_sdk_sns_1_10_27.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../watchablesdemo/.idea/libraries/Maven__com_amazonaws_aws_java_sdk_sqs_1_10_27.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../watchablesdemo/.idea/libraries/Maven__com_amazonaws_aws_java_sdk_ssm_1_10_27.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../watchablesdemo/.idea/libraries/Maven__com_amazonaws_aws_java_sdk_storagegateway_1_10_27.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../watchablesdemo/.idea/libraries/Maven__com_amazonaws_aws_java_sdk_sts_1_10_27.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../watchablesdemo/.idea/libraries/Maven__com_amazonaws_aws_java_sdk_support_1_10_27.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../watchablesdemo/.idea/libraries/Maven__com_amazonaws_aws_java_sdk_swf_libraries_1_10_27.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../watchablesdemo/.idea/libraries/Maven__com_amazonaws_aws_java_sdk_waf_1_10_27.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../watchablesdemo/.idea/libraries/Maven__com_amazonaws_aws_java_sdk_workspaces_1_10_27.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../watchablesdemo/.idea/libraries/Maven__com_google_code_findbugs_annotations_2_0_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../watchablesdemo/.idea/libraries/Maven__com_google_code_gson_gson_2_3_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../watchablesdemo/.idea/libraries/Maven__com_google_guava_guava_17_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../watchablesdemo/.idea/libraries/Maven__com_google_inject_extensions_guice_assistedinject_3_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../watchablesdemo/.idea/libraries/Maven__com_google_inject_extensions_guice_grapher_3_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../watchablesdemo/.idea/libraries/Maven__com_google_inject_extensions_guice_multibindings_3_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../watchablesdemo/.idea/libraries/Maven__com_google_inject_guice_3_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../watchablesdemo/.idea/libraries/Maven__com_netflix_archaius_archaius_core_0_6_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../watchablesdemo/.idea/libraries/Maven__com_netflix_eureka_eureka_client_1_1_147.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../watchablesdemo/.idea/libraries/Maven__com_netflix_governator_governator_1_2_10.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../watchablesdemo/.idea/libraries/Maven__com_netflix_netflix_commons_netflix_commons_util_0_1_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../watchablesdemo/.idea/libraries/Maven__com_netflix_netflix_commons_netflix_eventbus_0_1_2.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../watchablesdemo/.idea/libraries/Maven__com_netflix_netflix_commons_netflix_infix_0_1_2.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../watchablesdemo/.idea/libraries/Maven__com_netflix_netflix_commons_netflix_statistics_0_1_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../watchablesdemo/.idea/libraries/Maven__com_netflix_ribbon_ribbon_core_2_0_RC9.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../watchablesdemo/.idea/libraries/Maven__com_netflix_ribbon_ribbon_httpclient_2_0_RC9.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../watchablesdemo/.idea/libraries/Maven__com_netflix_ribbon_ribbon_loadbalancer_2_0_RC9.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../watchablesdemo/.idea/libraries/Maven__com_netflix_rxjava_rxjava_core_0_19_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../watchablesdemo/.idea/libraries/Maven__com_netflix_servo_servo_core_0_7_4.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../watchablesdemo/.idea/libraries/Maven__com_sun_jersey_contribs_jersey_apache_client4_1_11.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../watchablesdemo/.idea/libraries/Maven__com_sun_jersey_jersey_client_1_11.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../watchablesdemo/.idea/libraries/Maven__com_sun_jersey_jersey_core_1_11.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../watchablesdemo/.idea/libraries/Maven__com_thoughtworks_xstream_xstream_1_4_8.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../watchablesdemo/.idea/libraries/Maven__commons_cli_commons_cli_1_2.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../watchablesdemo/.idea/libraries/Maven__commons_codec_commons_codec_1_9.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../watchablesdemo/.idea/libraries/Maven__commons_collections_commons_collections_3_2_2.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../watchablesdemo/.idea/libraries/Maven__commons_configuration_commons_configuration_1_8.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../watchablesdemo/.idea/libraries/Maven__commons_jxpath_commons_jxpath_1_3.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../watchablesdemo/.idea/libraries/Maven__commons_lang_commons_lang_2_6.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../watchablesdemo/.idea/libraries/Maven__io_netty_netty_3_7_0_Final.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../watchablesdemo/.idea/libraries/Maven__javax_inject_javax_inject_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../watchablesdemo/.idea/libraries/Maven__javax_ws_rs_jsr311_api_1_1_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../watchablesdemo/.idea/libraries/Maven__jline_jline_0_9_94.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../watchablesdemo/.idea/libraries/Maven__joda_time_joda_time_2_8_2.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../watchablesdemo/.idea/libraries/Maven__org_antlr_antlr_runtime_3_4.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../watchablesdemo/.idea/libraries/Maven__org_antlr_stringtemplate_3_2_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../watchablesdemo/.idea/libraries/Maven__org_apache_commons_commons_math_2_2.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../watchablesdemo/.idea/libraries/Maven__org_apache_curator_curator_client_2_10_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../watchablesdemo/.idea/libraries/Maven__org_apache_curator_curator_framework_2_10_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../watchablesdemo/.idea/libraries/Maven__org_apache_curator_curator_recipes_2_10_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../watchablesdemo/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_5_2.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../watchablesdemo/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_4_5.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../watchablesdemo/.idea/libraries/Maven__org_apache_xbean_xbean_bundleutils_3_11_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../watchablesdemo/.idea/libraries/Maven__org_apache_xbean_xbean_finder_3_11_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../watchablesdemo/.idea/libraries/Maven__org_apache_zookeeper_zookeeper_3_4_8.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../watchablesdemo/.idea/libraries/Maven__org_cirrostratus_sequoia_config_lib_1_10_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../watchablesdemo/.idea/libraries/Maven__org_cirrostratus_sequoia_dipswitch_lib_1_9_4.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../watchablesdemo/.idea/libraries/Maven__org_cirrostratus_sequoia_servicelocator_2_4_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../watchablesdemo/.idea/libraries/Maven__org_cirrostratus_sequoia_structuredlogging_core_1_12_3.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../watchablesdemo/.idea/libraries/Maven__org_cirrostratus_sequoia_watchable_1_12_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../watchablesdemo/.idea/libraries/Maven__org_codehaus_jackson_jackson_core_asl_1_9_11.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../watchablesdemo/.idea/libraries/Maven__org_codehaus_jackson_jackson_mapper_asl_1_9_11.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../watchablesdemo/.idea/libraries/Maven__org_codehaus_jettison_jettison_1_2.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../watchablesdemo/.idea/libraries/Maven__org_codehaus_jsr166_mirror_jsr166y_1_7_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../watchablesdemo/.idea/libraries/Maven__org_ithaka_sequoia_eureka_lwc_1_2_5.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../watchablesdemo/.idea/libraries/Maven__org_slf4j_slf4j_ext_1_7_12.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../watchablesdemo/.idea/libraries/Maven__stax_stax_api_1_0_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../watchablesdemo/.idea/libraries/Maven__xmlpull_xmlpull_1_1_3_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../watchablesdemo/.idea/libraries/Maven__xpp3_xpp3_min_1_1_4c.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../watchablesdemo/src/main/java/org/watchablesdemo/Application.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../watchablesdemo/src/main/java/org/watchablesdemo/IndexApi.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../watchablesdemo/src/main/java/org/watchablesdemo/WatchablesApi.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/tdd/TrivialParser.java" afterPath="$PROJECT_DIR$/src/main/java/com/tdd/TrivialParser.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/com/tdd/TrivialParserTest.java" afterPath="$PROJECT_DIR$/src/test/java/com/tdd/TrivialParserTest.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../watchablesdemo/.idea/misc.xml" afterPath="$PROJECT_DIR$/../watchablesdemo/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../watchablesdemo/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../watchablesdemo/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../watchablesdemo/pom.xml" afterPath="$PROJECT_DIR$/../watchablesdemo/pom.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../watchablesdemo/watchablesdemo.iml" afterPath="$PROJECT_DIR$/../watchablesdemo/watchablesdemo.iml" />
+    </list>
     <ignored path="tdd.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -31,20 +164,47 @@
       <file leaf-file-name="Calculator.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/tdd/Calculator.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
+            <state relative-caret-position="480">
               <caret line="32" column="73" selection-start-line="32" selection-start-column="73" selection-end-line="32" selection-end-column="73" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="CalculatorTest.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="CalculatorTest.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/com/tdd/CalculatorTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1170">
+            <state relative-caret-position="491">
               <caret line="78" column="0" selection-start-line="78" selection-start-column="0" selection-end-line="78" selection-end-column="0" />
               <folding>
                 <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TrivialParser.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/tdd/TrivialParser.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="143">
+              <caret line="17" column="0" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TrivialParserTest.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/tdd/TrivialParserTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="855">
+              <caret line="60" column="69" selection-start-line="60" selection-start-column="69" selection-end-line="60" selection-end-column="69" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#569#570#0" expanded="true" />
+                <element signature="e#620#621#0" expanded="true" />
+                <marker date="1469742678000" expanded="true" signature="322:399" ph="..." />
               </folding>
             </state>
           </provider>
@@ -72,10 +232,10 @@
       <list>
         <option value="$PROJECT_DIR$/src/main/java/com/tdd/TddApplication.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/tdd/TrivialParser.java" />
-        <option value="$PROJECT_DIR$/src/test/java/com/tdd/TrivialParserTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/tdd/TrivialParser.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/tdd/CalculatorTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/tdd/Calculator.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/tdd/TrivialParserTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/tdd/TrivialParser.java" />
       </list>
     </option>
   </component>
@@ -101,10 +261,9 @@
     <treeState />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="79" />
-    <option name="y" value="27" />
-    <option name="width" value="1400" />
-    <option name="height" value="757" />
+    <option name="y" value="23" />
+    <option name="width" value="1398" />
+    <option name="height" value="797" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
@@ -131,9 +290,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="Scratches" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -222,8 +379,28 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tdd" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tdd" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value=".mvn" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wrapper" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -233,8 +410,8 @@
     <property name="js-jscs-nodeInterpreter" value="/usr/local/bin/node" />
     <property name="extract.method.default.visibility" value="private" />
   </component>
-  <component name="RunManager" selected="JUnit.CalculatorTest">
-    <configuration default="false" name="CalculatorTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.TrivialParserTest">
+    <configuration default="false" name="TrivialParserTest.getListOfString_null_emptyList" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
           <option name="PATTERN" value="com.tdd.*" />
@@ -245,7 +422,59 @@
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="com.tdd" />
-      <option name="MAIN_CLASS_NAME" value="com.tdd.CalculatorTest" />
+      <option name="MAIN_CLASS_NAME" value="com.tdd.TrivialParserTest" />
+      <option name="METHOD_NAME" value="getListOfString_null_emptyList" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="false" name="TrivialParserTest.getListOfString_oneWord_returnsListWithCorrect" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.tdd.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="tdd" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.tdd" />
+      <option name="MAIN_CLASS_NAME" value="com.tdd.TrivialParserTest" />
+      <option name="METHOD_NAME" value="getListOfString_oneWord_returnsListWithCorrect" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="false" name="TrivialParserTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.tdd.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="tdd" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.tdd" />
+      <option name="MAIN_CLASS_NAME" value="com.tdd.TrivialParserTest" />
       <option name="METHOD_NAME" />
       <option name="TEST_OBJECT" value="class" />
       <option name="VM_PARAMETERS" value="-ea" />
@@ -260,7 +489,7 @@
       <patterns />
       <method />
     </configuration>
-    <configuration default="false" name="CalculatorTest.add_fourNumbers_returnsSum" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration default="false" name="TrivialParserTest.getListOfString_twoWords_returnsListWithTwoItems" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
           <option name="PATTERN" value="com.tdd.*" />
@@ -271,8 +500,8 @@
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="com.tdd" />
-      <option name="MAIN_CLASS_NAME" value="com.tdd.CalculatorTest" />
-      <option name="METHOD_NAME" value="add_fourNumbers_returnsSum" />
+      <option name="MAIN_CLASS_NAME" value="com.tdd.TrivialParserTest" />
+      <option name="METHOD_NAME" value="getListOfString_twoWords_returnsListWithTwoItems" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -286,7 +515,7 @@
       <patterns />
       <method />
     </configuration>
-    <configuration default="false" name="CalculatorTest.add_lineBreakDelimiter_returnsSum" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration default="false" name="TrivialParserTest.getListOfString_stringWithMultipleSpaces_returnsListWithTwoItems" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
           <option name="PATTERN" value="com.tdd.*" />
@@ -297,60 +526,8 @@
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="com.tdd" />
-      <option name="MAIN_CLASS_NAME" value="com.tdd.CalculatorTest" />
-      <option name="METHOD_NAME" value="add_lineBreakDelimiter_returnsSum" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <envs />
-      <patterns />
-      <method />
-    </configuration>
-    <configuration default="false" name="CalculatorTest.add_defineDelimiter_returnsSum" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="com.tdd.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <module name="tdd" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="com.tdd" />
-      <option name="MAIN_CLASS_NAME" value="com.tdd.CalculatorTest" />
-      <option name="METHOD_NAME" value="add_defineDelimiter_returnsSum" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <envs />
-      <patterns />
-      <method />
-    </configuration>
-    <configuration default="false" name="CalculatorTest.add_negativeNumber_NumberFormatExceptionWithMessage" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="com.tdd.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <module name="tdd" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="com.tdd" />
-      <option name="MAIN_CLASS_NAME" value="com.tdd.CalculatorTest" />
-      <option name="METHOD_NAME" value="add_negativeNumber_NumberFormatExceptionWithMessage" />
+      <option name="MAIN_CLASS_NAME" value="com.tdd.TrivialParserTest" />
+      <option name="METHOD_NAME" value="getListOfString_stringWithMultipleSpaces_returnsListWithTwoItems" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -774,19 +951,19 @@
     </configuration>
     <list size="6">
       <item index="0" class="java.lang.String" itemvalue="Spring Boot.TddApplication" />
-      <item index="1" class="java.lang.String" itemvalue="JUnit.CalculatorTest" />
-      <item index="2" class="java.lang.String" itemvalue="JUnit.CalculatorTest.add_fourNumbers_returnsSum" />
-      <item index="3" class="java.lang.String" itemvalue="JUnit.CalculatorTest.add_lineBreakDelimiter_returnsSum" />
-      <item index="4" class="java.lang.String" itemvalue="JUnit.CalculatorTest.add_defineDelimiter_returnsSum" />
-      <item index="5" class="java.lang.String" itemvalue="JUnit.CalculatorTest.add_negativeNumber_NumberFormatExceptionWithMessage" />
+      <item index="1" class="java.lang.String" itemvalue="JUnit.TrivialParserTest.getListOfString_null_emptyList" />
+      <item index="2" class="java.lang.String" itemvalue="JUnit.TrivialParserTest.getListOfString_oneWord_returnsListWithCorrect" />
+      <item index="3" class="java.lang.String" itemvalue="JUnit.TrivialParserTest" />
+      <item index="4" class="java.lang.String" itemvalue="JUnit.TrivialParserTest.getListOfString_twoWords_returnsListWithTwoItems" />
+      <item index="5" class="java.lang.String" itemvalue="JUnit.TrivialParserTest.getListOfString_stringWithMultipleSpaces_returnsListWithTwoItems" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="JUnit.CalculatorTest" />
-        <item index="1" class="java.lang.String" itemvalue="JUnit.CalculatorTest.add_negativeNumber_NumberFormatExceptionWithMessage" />
-        <item index="2" class="java.lang.String" itemvalue="JUnit.CalculatorTest.add_defineDelimiter_returnsSum" />
-        <item index="3" class="java.lang.String" itemvalue="JUnit.CalculatorTest.add_lineBreakDelimiter_returnsSum" />
-        <item index="4" class="java.lang.String" itemvalue="JUnit.CalculatorTest.add_fourNumbers_returnsSum" />
+        <item index="0" class="java.lang.String" itemvalue="JUnit.TrivialParserTest" />
+        <item index="1" class="java.lang.String" itemvalue="JUnit.TrivialParserTest.getListOfString_stringWithMultipleSpaces_returnsListWithTwoItems" />
+        <item index="2" class="java.lang.String" itemvalue="JUnit.TrivialParserTest.getListOfString_twoWords_returnsListWithTwoItems" />
+        <item index="3" class="java.lang.String" itemvalue="JUnit.TrivialParserTest.getListOfString_oneWord_returnsListWithCorrect" />
+        <item index="4" class="java.lang.String" itemvalue="JUnit.TrivialParserTest.getListOfString_null_emptyList" />
       </list>
     </recent_temporary>
   </component>
@@ -808,47 +985,48 @@
       <workItem from="1468416630761" duration="613000" />
       <workItem from="1468431255821" duration="12000" />
       <workItem from="1469142715002" duration="4350000" />
+      <workItem from="1469739851519" duration="3452000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="CalculatorTest - 2016.07.21 at 20h 13m 56s.xml">
-      <configuration name="CalculatorTest" configurationId="JUnit" />
+    <history-entry file="TrivialParserTest - 2016.07.28 at 17h 46m 11s.xml">
+      <configuration name="TrivialParserTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="CalculatorTest - 2016.07.21 at 20h 15m 25s.xml">
-      <configuration name="CalculatorTest" configurationId="JUnit" />
+    <history-entry file="TrivialParserTest - 2016.07.28 at 17h 46m 52s.xml">
+      <configuration name="TrivialParserTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="CalculatorTest - 2016.07.21 at 20h 21m 10s.xml">
-      <configuration name="CalculatorTest" configurationId="JUnit" />
+    <history-entry file="TrivialParserTest - 2016.07.28 at 17h 52m 58s.xml">
+      <configuration name="TrivialParserTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="CalculatorTest_add_defineDelimiter_returnsSum - 2016.07.21 at 20h 09m 25s.xml">
-      <configuration name="CalculatorTest.add_defineDelimiter_returnsSum" configurationId="JUnit" />
+    <history-entry file="TrivialParserTest - 2016.07.28 at 17h 54m 10s.xml">
+      <configuration name="TrivialParserTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="CalculatorTest_add_defineDelimiter_returnsSum - 2016.07.21 at 20h 10m 18s.xml">
-      <configuration name="CalculatorTest.add_defineDelimiter_returnsSum" configurationId="JUnit" />
+    <history-entry file="TrivialParserTest - 2016.07.28 at 17h 54m 52s.xml">
+      <configuration name="TrivialParserTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="CalculatorTest_add_defineDelimiter_returnsSum - 2016.07.21 at 20h 10m 29s.xml">
-      <configuration name="CalculatorTest.add_defineDelimiter_returnsSum" configurationId="JUnit" />
+    <history-entry file="TrivialParserTest - 2016.07.28 at 17h 57m 17s.xml">
+      <configuration name="TrivialParserTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="CalculatorTest_add_defineDelimiter_returnsSum - 2016.07.21 at 20h 12m 59s.xml">
-      <configuration name="CalculatorTest.add_defineDelimiter_returnsSum" configurationId="JUnit" />
+    <history-entry file="TrivialParserTest - 2016.07.28 at 17h 59m 07s.xml">
+      <configuration name="TrivialParserTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="CalculatorTest_add_defineDelimiter_returnsSum - 2016.07.21 at 20h 13m 31s.xml">
-      <configuration name="CalculatorTest.add_defineDelimiter_returnsSum" configurationId="JUnit" />
+    <history-entry file="TrivialParserTest_getListOfString_stringWithMultipleSpaces_returnsListWithTwoItems - 2016.07.28 at 17h 51m 20s.xml">
+      <configuration name="TrivialParserTest.getListOfString_stringWithMultipleSpaces_returnsListWithTwoItems" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="CalculatorTest_add_defineDelimiter_returnsSum - 2016.07.21 at 20h 13m 51s.xml">
-      <configuration name="CalculatorTest.add_defineDelimiter_returnsSum" configurationId="JUnit" />
+    <history-entry file="TrivialParserTest_getListOfString_stringWithMultipleSpaces_returnsListWithTwoItems - 2016.07.28 at 17h 52m 37s.xml">
+      <configuration name="TrivialParserTest.getListOfString_stringWithMultipleSpaces_returnsListWithTwoItems" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="CalculatorTest_add_negativeNumber_NumberFormatExceptionWithMessage - 2016.07.21 at 20h 20m 06s.xml">
-      <configuration name="CalculatorTest.add_negativeNumber_NumberFormatExceptionWithMessage" configurationId="JUnit" />
+    <history-entry file="TrivialParserTest_getListOfString_twoWords_returnsListWithTwoItems - 2016.07.28 at 17h 46m 05s.xml">
+      <configuration name="TrivialParserTest.getListOfString_twoWords_returnsListWithTwoItems" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8785000" />
+    <option name="totallyTimeSpent" value="12237000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="79" y="27" width="1400" height="757" extended-state="0" />
-    <editor active="true" />
+    <frame x="0" y="23" width="1398" height="797" extended-state="0" />
+    <editor active="false" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -859,12 +1037,12 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2945508" sideWeight="0.4918415" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32707354" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32842416" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18851252" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17551622" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -872,7 +1050,7 @@
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39906102" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3976436" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -902,7 +1080,7 @@
           <option name="timeStamp" value="4" />
         </line-breakpoint>
       </breakpoints>
-      <option name="time" value="5" />
+      <option name="time" value="6" />
     </breakpoint-manager>
     <watches-manager />
   </component>
@@ -911,6 +1089,24 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/tdd/Calculator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="32" column="73" selection-start-line="32" selection-start-column="73" selection-end-line="32" selection-end-column="73" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/tdd/CalculatorTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1080">
+          <caret line="78" column="0" selection-start-line="78" selection-start-column="0" selection-end-line="78" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/tdd/TrivialParser.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
@@ -927,6 +1123,9 @@
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="e#569#570#0" expanded="true" />
+            <element signature="e#620#621#0" expanded="true" />
+            <marker date="1469742678000" expanded="true" signature="322:399" ph="..." />
           </folding>
         </state>
       </provider>
@@ -957,6 +1156,9 @@
           <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="e#569#570#0" expanded="true" />
+            <element signature="e#620#621#0" expanded="true" />
+            <marker date="1469742678000" expanded="true" signature="322:399" ph="..." />
           </folding>
         </state>
       </provider>
@@ -977,34 +1179,17 @@
           <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="e#569#570#0" expanded="true" />
+            <element signature="e#620#621#0" expanded="true" />
+            <marker date="1469742678000" expanded="true" signature="322:399" ph="..." />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/tdd/TddApplication.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/tdd/TrivialParser.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" column="68" selection-start-line="18" selection-start-column="4" selection-end-line="18" selection-end-column="68" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/tdd/TrivialParserTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="435">
-          <caret line="31" column="18" selection-start-line="31" selection-start-column="18" selection-end-line="31" selection-end-column="18" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/tdd/Calculator.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
+        <state relative-caret-position="480">
           <caret line="32" column="73" selection-start-line="32" selection-start-column="73" selection-end-line="32" selection-end-column="73" />
           <folding />
         </state>
@@ -1012,10 +1197,33 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/tdd/CalculatorTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1170">
+        <state relative-caret-position="491">
           <caret line="78" column="0" selection-start-line="78" selection-start-column="0" selection-end-line="78" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/tdd/TrivialParser.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="143">
+          <caret line="17" column="0" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/tdd/TrivialParserTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="855">
+          <caret line="60" column="69" selection-start-line="60" selection-start-column="69" selection-end-line="60" selection-end-column="69" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#569#570#0" expanded="true" />
+            <element signature="e#620#621#0" expanded="true" />
+            <marker date="1469742678000" expanded="true" signature="322:399" ph="..." />
           </folding>
         </state>
       </provider>

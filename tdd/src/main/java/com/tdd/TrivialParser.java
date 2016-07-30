@@ -9,19 +9,22 @@ import java.util.List;
  */
 public class TrivialParser {
 
-    public List<String> getListOfStrings(String s) {
-        if (null == s){
+    public List<String> getListOfString(String input){
+        if (null == input){
             return new ArrayList<>();
         }
-        return Arrays.asList(s.split(" +"));
+        return Arrays.asList(input.split(" +"));
     }
 
+
+
     //I do not want to break anything, but this should be refactored
-    public List<String> getListOfStringsNoTdd(String s){
-        if (s == null){
-            throw new IllegalArgumentException("String cannot be null");
-        }
-        String [] strings = s.split(" ");
-        return Arrays.asList(strings);
-    }
+
+//    public List<String> getListOfString(String s){
+//        if (s == null){
+//            throw new IllegalArgumentException("String cannot be null");
+//        }
+//        String [] strings = s.split(" ");
+//        return Arrays.asList(strings);
+//    }
 }
