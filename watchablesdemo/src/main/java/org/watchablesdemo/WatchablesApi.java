@@ -24,6 +24,9 @@ public class WatchablesApi {
     @Autowired
     DipSwitchFactory dsf;
 
+    @Autowired
+    WatchablesPvWorker pvWorker;
+
     DipSwitch dipSwitch;
 
     @RequestMapping(value = "/pv", method = { RequestMethod.GET })

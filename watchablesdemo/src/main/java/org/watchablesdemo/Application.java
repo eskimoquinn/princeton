@@ -16,7 +16,8 @@ import org.springframework.context.annotation.ImportResource;
 @ComponentScan(basePackages = {"org.watchablesdemo", "org.cirrostratus.sequoia"})
 @ImportResource({
         "classpath:/META-INF/spring/watchable-beans.xml",
-        "classpath:/META-INF/spring/dipswitch-beans.xml"
+        "classpath:/META-INF/spring/dipswitch-beans.xml",
+        "classpath*:META-INF/spring/persistentvariable-beans.xml",
     })
 public class Application extends SpringBootServletInitializer {
 

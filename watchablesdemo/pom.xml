@@ -43,6 +43,13 @@
 			<artifactId>spring-boot-starter-tomcat</artifactId>
 			<scope>provided</scope>
 		</dependency> -->
+
+		<dependency>
+			<groupId>org.springframework.boot</groupId>
+			<artifactId>spring-boot-legacy</artifactId>
+			<version>1.0.0.RELEASE</version>
+		</dependency>
+
 		<dependency>
 			<groupId>org.cirrostratus.sequoia</groupId>
 			<artifactId>dipswitch-lib</artifactId>
@@ -52,6 +59,11 @@
 			<groupId>org.cirrostratus.sequoia</groupId>
 			<artifactId>watchable</artifactId>
 			<version>1.12.0</version>
+		</dependency>
+		<dependency>
+			<groupId>org.cirrostratus.sequoia</groupId>
+			<artifactId>PersistentVariable</artifactId>
+			<version>1.10.0</version>
 		</dependency>
 
 		<dependency>
@@ -70,13 +82,13 @@
 				<configuration>
 					<mainClass>org.watchablesdemo.Application</mainClass>
 				</configuration>
-				<executions>
+				<!-- <executions>
 					<execution>
 						<goals>
 							<goal>repackage</goal>
 						</goals>
 					</execution>
-				</executions>
+				</executions> -->
 			</plugin>
 		</plugins>
 	</build>
