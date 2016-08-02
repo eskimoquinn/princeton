@@ -1,3 +1,35 @@
+Agenda:
+
+1. Basics of TDD
+	- What is the testing pyramid and how do unit tests fit into the pyramid?
+	- Benefits of TDD
+	- Red Green Refactor Cycle
+	- TDD Demo with JUnit - naming, arrange-act-assert
+	- TDD Kata - Devs participate
+2. Intermediate TDD Topics
+	- Unit Tests vs Integration Tests
+	- Mocking
+	- Testing Exceptions
+	- Testing Legacy Code and Refactoring
+	- Code Coverage
+		- Tools
+		- Line Coverage vs Branch Coverage
+3. Watchables
+	- ZooKeeper -- What is it and what is it used for?
+	- Dipswitches
+	- Circuit Breakers
+	- Persistent Variables
+	- Configuring and Using Watchables in A Spring App Demo
+4. Team Agreements with Vinay, Suresh, etc.
+	- Automated Testing
+	- Team agreements must come from the team via retro's
+	- Specific Agreements
+		- TDD
+		- Refactoring
+		- Pairing
+		- Documentation
+		- Daily on Call
+
 # Remember Write only the code that you need to pass the test
 # Red-Green-Refactor cycle
 # Naming convention: MethodName_StateUnderTest_ExpectedBehavior:

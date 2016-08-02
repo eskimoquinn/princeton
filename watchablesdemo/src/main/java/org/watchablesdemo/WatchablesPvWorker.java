@@ -19,6 +19,10 @@ public class WatchablesPvWorker {
 
     PersistentVariable rooster = null;
 
+    public PersistentVariable getRooster(){
+        return rooster;
+    }
+
     @Autowired
     public void setPvf(PersistentVariableFactory pvf) {
         this.pvf = pvf;

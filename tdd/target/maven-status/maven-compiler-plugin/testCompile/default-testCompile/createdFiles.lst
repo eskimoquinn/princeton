@@ -1,2 +1,6 @@
-com/tdd/CalculatorTest.class
 com/tdd/TrivialParserTest.class
+com/tdd/RefactoredApiTest.class
+com/tdd/RefactoredApiWorkerTest.class
+com/tdd/AssertVsVerifyTest.class
+com/tdd/CalculatorTest.class
+com/tdd/LegacyApiTest.class
