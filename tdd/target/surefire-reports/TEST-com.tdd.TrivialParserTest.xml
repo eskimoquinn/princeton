@@ -61,8 +61,8 @@
     <property name="ftp.nonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
     <property name="sun.cpu.isalist" value=""/>
   </properties>
-  <testcase name="getListOfString_twoWords_returnsListWithTwoItems" classname="com.tdd.TrivialParserTest" time="0"/>
-  <testcase name="getListOfString_null_emptyList" classname="com.tdd.TrivialParserTest" time="0"/>
-  <testcase name="getListOfString_oneWord_returnsListWithCorrect" classname="com.tdd.TrivialParserTest" time="0"/>
-  <testcase name="getListOfString_stringWithMultipleSpaces_returnsListWithTwoItems" classname="com.tdd.TrivialParserTest" time="0"/>
+  <testcase name="getListOfStrings_twoWords_returnsListWithTwoWords" classname="com.tdd.TrivialParserTest" time="0"/>
+  <testcase name="getListOfStrings_twoWordsWithTwoSpacesAsDelimiter_returnsListWithTwoWords" classname="com.tdd.TrivialParserTest" time="0"/>
+  <testcase name="getListOfStrings_oneWord_returnsListWithWord" classname="com.tdd.TrivialParserTest" time="0"/>
+  <testcase name="getListOfStrings_nullString_returnsNotNullList" classname="com.tdd.TrivialParserTest" time="0"/>
 </testsuite>

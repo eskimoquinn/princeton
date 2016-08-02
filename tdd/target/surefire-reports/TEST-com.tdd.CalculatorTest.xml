@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="com.tdd.CalculatorTest" time="0.006" tests="8" errors="0" skipped="0" failures="0">
+<testsuite name="com.tdd.CalculatorTest" time="0.002" tests="8" errors="0" skipped="0" failures="0">
   <properties>
     <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
     <property name="sun.boot.library.path" value="/Library/Java/JavaVirtualMachines/jdk1.8.0_91.jdk/Contents/Home/jre/lib"/>
@@ -61,12 +61,12 @@
     <property name="ftp.nonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
     <property name="sun.cpu.isalist" value=""/>
   </properties>
-  <testcase name="add_twoNumbers_returnsSum" classname="com.tdd.CalculatorTest" time="0.001"/>
+  <testcase name="add_twoNumbers_returnsSum" classname="com.tdd.CalculatorTest" time="0"/>
   <testcase name="add_lineBreakDelimiter_returnsSum" classname="com.tdd.CalculatorTest" time="0"/>
   <testcase name="add_oneNumber_returnsNumber" classname="com.tdd.CalculatorTest" time="0"/>
   <testcase name="add_emptyString_returnsZero" classname="com.tdd.CalculatorTest" time="0"/>
   <testcase name="add_defineDelimiter_returnsSum" classname="com.tdd.CalculatorTest" time="0"/>
   <testcase name="add_fourNumbers_returnsSum" classname="com.tdd.CalculatorTest" time="0"/>
-  <testcase name="add_negativeNumber_NumberFormatExceptionWithMessage" classname="com.tdd.CalculatorTest" time="0.005"/>
-  <testcase name="add_nullString_returnsZero" classname="com.tdd.CalculatorTest" time="0"/>
+  <testcase name="add_negativeNumber_NumberFormatExceptionWithMessage" classname="com.tdd.CalculatorTest" time="0.001"/>
+  <testcase name="add_nullString_returnsZero" classname="com.tdd.CalculatorTest" time="0.001"/>
 </testsuite>

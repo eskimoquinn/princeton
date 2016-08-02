@@ -1,9 +1,9 @@
 package com.tdd;
 
 import org.junit.Before;
+import org.junit.Ignore;
 import org.junit.Test;
 
-import java.util.Arrays;
 import java.util.List;
 
 import static org.hamcrest.core.Is.is;
@@ -14,58 +14,58 @@ import static org.junit.Assert.assertThat;
  * Created by tgreen on 7/12/16.
  */
 public class TrivialParserTest {
-//    TrivialParser trivialParser;
-//    private List<String> actualStringsList;
-//
-//    @Before
-//    public void setup(){
-//        trivialParser = new TrivialParser();
-//    }
 
     TrivialParser trivialParser;
 
     @Before
     public void setup(){
-        trivialParser = new TrivialParser();
+       trivialParser = new TrivialParser();
     }
 
     @Test
-    public void getListOfString_null_emptyList(){
-        //Arrange
+    public void getListOfStrings_nullString_returnsNotNullList(){
         //Act
-        List<String> actualList = trivialParser.getListOfString(null);
+        List<String> actual = trivialParser.getListOfStrings(null);
+
         //Assert
-        assertNotNull("actual list is null" , actualList);
+        assertNotNull(actual);
     }
 
+    @Ignore
     @Test
-    public void getListOfString_oneWord_returnsListWithCorrect(){
+    public void getListOfStrings_oneWord_returnsListWithWord(){
+        List<String> actual = trivialParser.getListOfStrings("one");
 
-        List<String> actualList = trivialParser.getListOfString("testWord");
-
-        assertThat("List should contain testWord", actualList.size(), is(1));
-        assertThat(actualList.contains("testWord"), is(true));
+        assertThat("Should Return a list of one word", actual.get(0), is("one"));
     }
 
+    @Ignore
     @Test
-    public void getListOfString_twoWords_returnsListWithTwoItems(){
-        List<String> actualList = trivialParser.getListOfString("one two");
+    public void getListOfStrings_twoWords_returnsListWithTwoWords(){
+        List<String> actual = trivialParser.getListOfStrings("bear snake");
 
-        assertThat("List should contain one two", actualList.size(), is(2));
-        assertThat(actualList.contains("one"), is(true));
-        assertThat(actualList.contains("two"), is(true));
+        assertThat(actual.get(0), is("bear"));
+        assertThat(actual.get(1), is("snake"));
     }
 
+    @Ignore
     @Test
-    public void getListOfString_stringWithMultipleSpaces_returnsListWithTwoItems(){
-        List<String> actualList = trivialParser.getListOfString("one  two");
+    public void getListOfStrings_twoWordsWithTwoSpacesAsDelimiter_returnsListWithTwoWords(){
+        List<String> actual = trivialParser.getListOfStrings("rooster  crow");
 
-        assertThat("List should contain one two", actualList.size(), is(2));
-        assertThat(actualList.contains("one"), is(true));
-        assertThat(actualList.contains("two"), is(true));
-
-
+        assertThat(actual.get(0), is("rooster"));
+        assertThat(actual.get(1), is("crow"));
+        assertThat(actual.size(), is(2));
     }
+
+//    TrivialParser trivialParser;
+//    List<String> actualStringsList;
+//
+//    @Before
+//    public void setup(){
+//        trivialParser = new TrivialParser();
+//        actualStringsList = new ArrayList<>();
+//    }
 //
 //
 //    @Test

@@ -1,2 +1,7 @@
 com/tdd/Calculator.class
+com/tdd/RefactoredApiWorker.class
 com/tdd/TrivialParser.class
+com/tdd/RefactoredApi.class
+com/tdd/AssertVsVerify.class
+com/tdd/Dependency.class
+com/tdd/LegacyApi.class

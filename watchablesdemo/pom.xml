@@ -66,6 +66,16 @@
 			<artifactId>PersistentVariable</artifactId>
 			<version>1.10.0</version>
 		</dependency>
+		<dependency>
+			<groupId>org.cirrostratus.sequoia</groupId>
+			<artifactId>circuit-breaker-lib</artifactId>
+			<version>1.8.2</version>
+		</dependency>
+
+		<dependency>
+			<groupId>org.springframework</groupId>
+			<artifactId>spring-aspects</artifactId>
+		</dependency>
 
 		<dependency>
 			<groupId>org.springframework.boot</groupId>

@@ -25,6 +25,9 @@ public class WatchablesApi {
     @Autowired
     WatchablesRetryHelperWorker watchablesRetryHelperWorker;
 
+    @Autowired
+    WatchablesCircuitBreaker watchablesCircuitBreaker;
+
     @RequestMapping(value = "/pv", method = { RequestMethod.GET })
     @ResponseBody
     public Map<String, String> pvDemo(){
@@ -38,6 +41,11 @@ public class WatchablesApi {
     public Map<String, String> dipswitchDemo(){
         Map<String, String> returnValue = new HashMap<>();
         returnValue.put("Dipswitch BEAR: " , dipswitchWorker.getDipswitchString());
+        if (dipswitchWorker.dipSwitch.getBit().get()){
+            //do real thing
+        }else {
+            //return not yet implemented
+        }
         return returnValue;
     }
 
@@ -46,6 +54,15 @@ public class WatchablesApi {
     public Map<String, String> fireRetryMethod(){
         watchablesRetryHelperWorker.retryMethod();
         return new HashMap<>();
+    }
+
+    @RequestMapping(value = "/circuitBreaker", method = {RequestMethod.GET})
+    @ResponseBody
+    public Map<String, String> fireCB(){
+        String returnValue = watchablesCircuitBreaker.cbMethod();
+        Map<String, String> returnMap = new HashMap<>();
+        returnMap.put("MyCB", returnValue);
+        return returnMap;
     }
 
 }
